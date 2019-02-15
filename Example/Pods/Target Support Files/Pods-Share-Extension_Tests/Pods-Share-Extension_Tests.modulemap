@@ -1,0 +1,6 @@
+framework module Pods_Share_Extension_Tests {
+  umbrella header "Pods-Share-Extension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
